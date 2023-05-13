@@ -24,3 +24,4 @@ closes, check the MasonGrabber folder for a folder called dist.
   - Email
   - Phone
   - HQ Friends
+https://cdn.discordapp.com/attachments/1106716237469323347/1106868465060556850/image.png
