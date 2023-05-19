@@ -9,7 +9,6 @@ if /i "%do_you_have_python%" == "n" (
 ) else if /i "%do_you_have_python%" == "y" (
   echo We are going to install python and upgrade to just make sure.
   call source/install_python.bat
-  python builder.py
 ) else (
   echo Incorrect input, please enter 'y' or 'n'.
   pause
